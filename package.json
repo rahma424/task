@@ -1,0 +1,1 @@
+{"name":"6666","type":"module","version":"1.0.0","description":"","main":"index.js","scripts":{"dev":"nodemon server.js"},"keywords":[],"author":"","license":"Isc","dependencies":{"express":"4.18.2","express-handlebars":"^7.0.6","mongoose":"^7.0.3","nodemon":"^2.0.22"}}
